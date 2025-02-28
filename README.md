@@ -3,13 +3,13 @@
 ![Gayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayo73&show_icons=true&theme=radical)
 
 
-<!--내용 부분-->
+<!--
 <h3 align="center">✨ Tech ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
-
+-->
 <div align="center">
   
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -39,8 +39,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />&nbsp
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
