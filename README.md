@@ -1,15 +1,15 @@
 ## Bello! 
-
-![Gayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayo73&show_icons=true&theme=radical)
-
-
 <!--
+![Gayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayo73&show_icons=true&theme=radical)
+-->
+
+
 <h3 align="center">✨ Tech ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
--->
+
 <div align="center">
   
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
