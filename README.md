@@ -3,7 +3,7 @@
 ![Gayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayo73&show_icons=true&theme=radical)
 
 
-<!--내용 부분-->💻
+<!--내용 부분-->
 <h3 align="center">✨ Tech ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
@@ -22,7 +22,7 @@
 
 <h3 align="center">💻 Studing 💻</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />$nbsp
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
 </div>
 
