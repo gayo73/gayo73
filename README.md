@@ -1,56 +1,46 @@
-## Bello! 
-<!--
-![Gayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayo73&show_icons=true&theme=radical)
--->
-
-
-<h3 align="center">✨ Tech ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+
+  <h1>🐶 gayoung</h1>
+  <strong>Bello! This is my GitHub</strong>
+
 </div>
 
-<div align="center">
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gayo73&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/gayo73?pet-id=746411418525997656"
+    width="600"
+    height="120"
+  />
+</a>
   
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
-</div>
+<!--
+ <img align="right" width="23" src="" />
+-->
+  
 
-<br>
+<div align="left">
 
-<h3 align="center">💻 Studing 💻</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-</div>
+## 🛠 Tech Stack
 
-<br>
+### Backend
+![Python](https://img.shields.io/badge/Python-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />&nbsp
-</div>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
+<a href="https://www.notion.so/1fc3eee2242c8099b206e4d57278ccc4?source=copy_link"><img src="https://img.shields.io/badge/Notion-232323?style=badge&logo=Notion&logoColor=white"/></a> 
+<a href="https://www.instagram.com/ga0_0.4/"><img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/></a> 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sgy7315)](https://solved.ac/sgy7315)
 
-<br>
+<img src="http://mazandi.herokuapp.com/api?handle=sgy7315&theme=warm"/>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:gayoung2037@gmail.com">
-    <img
-      src="https://img.shields.io/badge/gayoung2037@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
