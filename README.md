@@ -11,7 +11,7 @@
   <img
     src="https://render.gitanimals.org/lines/gayo73?pet-id=746411418525997656"
     width="1000"
-    height="120"
+    height="80"
   />
 </a>
   
