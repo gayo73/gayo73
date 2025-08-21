@@ -35,10 +35,14 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
+### Contact
+![Instagram](https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white)
+![Gmail](https://mail.google.com/mail/u/2/#inbox-e05151?style=badge&logo=Gmail&logoColor=white)
+
 ---
 
 <a href="https://www.notion.so/1fc3eee2242c8099b206e4d57278ccc4?source=copy_link"><img src="https://img.shields.io/badge/Notion-232323?style=badge&logo=Notion&logoColor=white"/></a> 
-<a href="https://www.instagram.com/ga0_0.4/"><img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/></a> 
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sgy7315)](https://solved.ac/sgy7315)
 
