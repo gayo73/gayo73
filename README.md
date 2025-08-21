@@ -10,7 +10,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gayo73&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/gayo73?pet-id=746411418525997656"
-    width="600"
+    width="1000"
     height="120"
   />
 </a>
