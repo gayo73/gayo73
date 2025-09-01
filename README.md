@@ -1,31 +1,32 @@
 <div align="center">
 
-  <h1>🐶 gayoung</h1>
-  <strong>Bello! This is my GitHub</strong>
-
-</div>
-
+# 🐶 gayoung
+**Backend Developer**
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gayo73&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/gayo73?pet-id=746411418525997656"
     width="1000"
-    height="80"
   />
 </a>
-  
-<!--
- <img align="right" width="23" src="" />
--->
-  
+
+
+</div>
+
+---
+
+## 💡 About Me
+
+- Inha University, Computer Science Engineering
+
 
 <div align="left">
 
 ## 🛠 Tech Stack
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
@@ -36,15 +37,22 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 ### Contact
-![Instagram](https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white)
-![Gmail](https://mail.google.com/mail/u/2/#inbox-e05151?style=badge&logo=Gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gayoung2037@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ga0_0.4)
+
 
 ---
 
 <a href="https://www.notion.so/1fc3eee2242c8099b206e4d57278ccc4?source=copy_link"><img src="https://img.shields.io/badge/Notion-232323?style=badge&logo=Notion&logoColor=white"/></a> 
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=sgy7315)](https://solved.ac/sgy7315)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sgy7315)](https://solved.ac/sgy7315)
+## 📈 GitHub Stats
 
-<img src="http://mazandi.herokuapp.com/api?handle=sgy7315&theme=warm"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gayo73&show_icons=true&theme=solarized-light&hide_border=true&rank_icon=percentile" width="50%"/>
+
+<img src="http://mazandi.herokuapp.com/api?handle=sgy7315&theme=warm" width="48%"/>
+
+</div>
 
