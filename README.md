@@ -18,7 +18,10 @@
 
 ## 💡 About Me
 
-- Inha University, Computer Science Engineering
+* **인하대학교**  컴퓨터공학과 `2023.03 - Present`
+* **멋쟁이사자처럼**  12기 백엔드 파트 수료 `2024.02 - 2024.08`
+* **UMC**  8기 백엔드 파트 수료 `2025.02 - 2025.08`
+* **New Jersey City University**  Computer Science 교환학생 파견 `2025.09 - 2025.12`
 
 
 <div align="left">
@@ -36,10 +39,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
-### Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gayoung2037@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ga0_0.4)
-
 
 ---
 
@@ -48,11 +47,5 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gayo73&show_icons=true&theme=solarized-light&hide_border=true&rank_icon=percentile" width="50%"/>
-
-<img src="http://mazandi.herokuapp.com/api?handle=sgy7315&theme=warm" width="48%"/>
-
-</div>
+[![gayo73's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayo73)](https://github.com/gayo73/github-readme-stats)
 
