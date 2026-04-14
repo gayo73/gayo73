@@ -42,10 +42,8 @@
 
 ---
 
-<a href="https://www.notion.so/1fc3eee2242c8099b206e4d57278ccc4?source=copy_link"><img src="https://img.shields.io/badge/Notion-232323?style=badge&logo=Notion&logoColor=white"/></a> 
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=sgy7315)](https://solved.ac/sgy7315)
 
 ## 📈 GitHub Stats
 
-[![gayo73's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayo73)](https://github.com/gayo73/github-readme-stats)
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gayo73&show_icons=true&theme=merko" width="50%"/>
