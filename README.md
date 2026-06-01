@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐶 gayoung
+# gayoung
 **Backend Developer**
 
 
