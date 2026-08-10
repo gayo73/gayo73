@@ -45,4 +45,4 @@
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gayo73&show_icons=true&theme=merko" width="50%"/>
+![gayo73's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayo73&theme=dark&show_icons=true)
