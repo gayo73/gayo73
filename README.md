@@ -43,6 +43,6 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=sgy7315)](https://solved.ac/sgy7315)
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
-![gayo73's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayo73&theme=dark&show_icons=true)
+![gayo73's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayo73&theme=dark&show_icons=true)-->
